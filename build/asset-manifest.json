@@ -2,14 +2,14 @@
   "files": {
     "main.js": "/griyaciptapradhana/static/js/main.6663701a.chunk.js",
     "main.js.map": "/griyaciptapradhana/static/js/main.6663701a.chunk.js.map",
-    "runtime-main.js": "/griyaciptapradhana/static/js/runtime-main.fc46ca7f.js",
-    "runtime-main.js.map": "/griyaciptapradhana/static/js/runtime-main.fc46ca7f.js.map",
+    "runtime-main.js": "/griyaciptapradhana/static/js/runtime-main.63ab2c2c.js",
+    "runtime-main.js.map": "/griyaciptapradhana/static/js/runtime-main.63ab2c2c.js.map",
     "static/js/2.68dbfa92.chunk.js": "/griyaciptapradhana/static/js/2.68dbfa92.chunk.js",
     "static/js/2.68dbfa92.chunk.js.map": "/griyaciptapradhana/static/js/2.68dbfa92.chunk.js.map",
     "static/js/3.c1802751.chunk.js": "/griyaciptapradhana/static/js/3.c1802751.chunk.js",
     "static/js/3.c1802751.chunk.js.map": "/griyaciptapradhana/static/js/3.c1802751.chunk.js.map",
-    "static/js/4.b73a9a6c.chunk.js": "/griyaciptapradhana/static/js/4.b73a9a6c.chunk.js",
-    "static/js/4.b73a9a6c.chunk.js.map": "/griyaciptapradhana/static/js/4.b73a9a6c.chunk.js.map",
+    "static/js/4.f74d8000.chunk.js": "/griyaciptapradhana/static/js/4.f74d8000.chunk.js",
+    "static/js/4.f74d8000.chunk.js.map": "/griyaciptapradhana/static/js/4.f74d8000.chunk.js.map",
     "index.html": "/griyaciptapradhana/index.html",
     "static/js/2.68dbfa92.chunk.js.LICENSE.txt": "/griyaciptapradhana/static/js/2.68dbfa92.chunk.js.LICENSE.txt",
     "static/js/3.c1802751.chunk.js.LICENSE.txt": "/griyaciptapradhana/static/js/3.c1802751.chunk.js.LICENSE.txt",
@@ -76,6 +76,10 @@
     "static/media/mebel (7).8daf3614.jpg": "/griyaciptapradhana/static/media/mebel (7).8daf3614.jpg",
     "static/media/mebel (8).a963e571.jpg": "/griyaciptapradhana/static/media/mebel (8).a963e571.jpg",
     "static/media/mebel (9).80822a83.jpg": "/griyaciptapradhana/static/media/mebel (9).80822a83.jpg",
+    "static/media/price (1).b3011c72.jpg": "/griyaciptapradhana/static/media/price (1).b3011c72.jpg",
+    "static/media/price (2).4697609a.jpg": "/griyaciptapradhana/static/media/price (2).4697609a.jpg",
+    "static/media/price (3).71955a3d.jpg": "/griyaciptapradhana/static/media/price (3).71955a3d.jpg",
+    "static/media/price (4).70805ab8.jpg": "/griyaciptapradhana/static/media/price (4).70805ab8.jpg",
     "static/media/ruko (1).7d43b90a.jpg": "/griyaciptapradhana/static/media/ruko (1).7d43b90a.jpg",
     "static/media/ruko (2).e085d8ca.jpg": "/griyaciptapradhana/static/media/ruko (2).e085d8ca.jpg",
     "static/media/ruko (3).d9eda0b4.jpg": "/griyaciptapradhana/static/media/ruko (3).d9eda0b4.jpg",
@@ -86,7 +90,7 @@
     "static/media/villa (2).f4c3992e.jpg": "/griyaciptapradhana/static/media/villa (2).f4c3992e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fc46ca7f.js",
+    "static/js/runtime-main.63ab2c2c.js",
     "static/js/3.c1802751.chunk.js",
     "static/js/main.6663701a.chunk.js"
   ]

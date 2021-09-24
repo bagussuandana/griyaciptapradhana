@@ -14,12 +14,12 @@ import Profile from './Pages/Profile';
 
 export default function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Switch>
         <Route exact path="/">
           <Guest><Home /></Guest>
         </Route>
-        <Route exact path="/about">
+        <Route path="/about">
           <Guest><Profile /></Guest>
         </Route>
         <Route path="/price">
